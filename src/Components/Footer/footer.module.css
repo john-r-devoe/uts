@@ -1,0 +1,23 @@
+.container{
+    height: 100px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.child{
+    display: flex;
+    flex: 1;
+    justify-content: center;
+}
+
+.icon_box{
+    display: flex;
+    align-items: center;
+    gap: 1vw;
+}
+
+.container p{
+    font-size: 1vw;
+    text-align: center;
+}

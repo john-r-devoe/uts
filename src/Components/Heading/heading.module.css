@@ -1,0 +1,13 @@
+.container{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 10px 3%;
+}
+.title{
+    display: flex;
+    font-size: 1.5vw;
+    gap: 2.5vw;
+    align-items: center;
+    cursor: pointer;
+}
